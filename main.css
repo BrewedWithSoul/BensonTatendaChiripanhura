@@ -1,0 +1,49 @@
+/*CSS Styles*/
+
+		/*CSS Styles*/
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+            background-color: darkgray;
+            text-align: center;
+            image-orientation: landscape;
+		}
+		
+		header {
+			background-color: #876;
+			color: #fff;
+			padding: 20px;
+			text-align: center;
+		}
+		
+		h1 {
+			margin: 0;
+            color: crimson;
+		}
+		
+        h2 { 
+            margin: auto;
+            color: beige;
+                    
+        }
+        
+h3 {margin-left: auto;
+    color: burlywood;
+
+}
+
+h4 {margin: auto;
+    color:darkgray;
+}
+		img {
+			max-width: 100%;
+			height: auto;
+            align-items: center;
+		}
+		
+		iframe {
+			margin: 20px auto;
+			display: block;
+		}
+		
